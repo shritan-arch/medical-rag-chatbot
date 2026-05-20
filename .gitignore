@@ -217,8 +217,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-.env
-.venv/
-__pycache__/
-*.pyc
-.DS_Store
+
